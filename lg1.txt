@@ -1,0 +1,35 @@
+[33mcommit 36fdda34c0e6afa475142fe334dbdee2502f035e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+Author: Alex Lavrushkin <alex.lavrushkin@gmail.com>
+Date:   Sat Jan 20 18:30:52 2024 -0500
+
+    13 14 15 16 added
+
+[33mcommit 4d5ff4e9e9750de7abe98b9e437f8c7866d767dd[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/feature[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Alex Lavrushkin <alex.lavrushkin@gmail.com>
+Date:   Sat Jan 20 16:00:32 2024 -0500
+
+    9 0 11 12 added
+
+[33mcommit b1999836441ef969a013a3c0f77d518d04b94223[m
+Author: Alex Lavrushkin <alex.lavrushkin@gmail.com>
+Date:   Sat Jan 20 01:25:29 2024 -0500
+
+    5678 added
+
+[33mcommit ea1537c7ae1a62ce5eff82962b699368e653f391[m
+Author: Alex Lavrushkin <alex.lavrushkin@gmail.com>
+Date:   Sat Jan 20 01:21:06 2024 -0500
+
+    1234 added
+
+[33mcommit d6f2568406353be546e88904709eaf23b922dbb5[m
+Author: Alex Lavrushkin <alex.lavrushkin@gmail.com>
+Date:   Sat Jan 20 01:13:37 2024 -0500
+
+    all data deleted
+
+[33mcommit 841cdc356aa7fa5b4aee48b0b08b0e8dd9c7bcf2[m
+Author: Alex Lavrushkin <alex.lavrushkin@gmail.com>
+Date:   Sat Jan 20 01:05:19 2024 -0500
+
+    original file
